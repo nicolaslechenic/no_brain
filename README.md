@@ -16,8 +16,7 @@
   </a>
 </div>
 
-
-# NO BRAIN
+<br/>
 
 Small and easy to use reinforcement learning !
 
