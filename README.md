@@ -3,13 +3,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Semver-2.0.0-green.svg?longCache=true&style=flat" alt="Semver" />
-
-  <img src="https://img.shields.io/badge/version-0.1.0-green.svg?longCache=true&style=flat" alt="Version" />
-
   <a href='https://semaphoreci.com/nicolaslechenic/no_brain'>
     <img src='https://semaphoreci.com/api/v1/nicolaslechenic/no_brain/branches/master/shields_badge.svg' alt='Build Status'>
   </a>
+
+  <img src="https://img.shields.io/badge/gem_version-0.1.0-fdba2c.svg?longCache=true&style=flat" alt="Version" />
+
+  <img src="https://img.shields.io/badge/semver-2.0.0-fdba2c.svg?longCache=true&style=flat" alt="Semver" />
 
   <a href="https://github.com/bbatsov/ruby-style-guide">
     <img src="https://img.shields.io/badge/guideline-rubocop-blue.svg?longCache=true&style=flat" alt="Rubocop" />
