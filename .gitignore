@@ -1,0 +1,7 @@
+*.gem
+
+.config
+.rspec
+.yardoc
+
+Gemfile.lock
