@@ -6,19 +6,19 @@ module NoBrain
     VERSION = '0.1.0'.freeze
 
     class << self
-      def self.current
+      def current
         VERSION
       end
 
-      def self.major
+      def major
         VERSION.split('.').first
       end
 
-      def self.minor
+      def minor
         VERSION.split('.')[1]
       end
 
-      def self.patch
+      def patch
         VERSION.split('.').last
       end
     end
